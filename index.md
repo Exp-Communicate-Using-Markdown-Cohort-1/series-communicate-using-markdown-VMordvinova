@@ -4,3 +4,6 @@
 ```
 System.out.println("This is super cool!");
 ```
+- [ ] Finish Homework
+- [ ] Pet Simon
+- [ ] Drink coffee 
